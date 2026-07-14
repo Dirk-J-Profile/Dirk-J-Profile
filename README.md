@@ -13,7 +13,7 @@ I enjoy turning complex technical requirements into practical, well-documented s
 - **Networking:** LAN, WAN, WLAN, VLANs, TCP/IP, DNS, DHCP, VPN, routers, switches and firewalls
 - **Security:** Security standards, risk analysis, implementation of protective measures and secure operations
 - **Backup & Data:** Veeam, MySQL, SQL
-- **Development:** Pyhton (Beginner)
+- **Development:** Python (Beginner)
 - **Hardware & Support:** PC/server hardware, fault analysis, troubleshooting and technical support
 
 ## 💼 Professional Background
